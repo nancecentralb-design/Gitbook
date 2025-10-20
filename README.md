@@ -8,13 +8,11 @@ coverY: 0
 
 # 🏠 Introduction
 
-### What is B4NK?
+#### What is B4NK?
 
 Binance Central B4NK is a new DeFi protocol developed for users who want high yield on their BNB without giving up token exposure. B4NK enables loyal users to generate incredible returns on their BNB, whilst punishing users who are less considerate.&#x20;
 
-
-
-**Are you ready to deposit?**
+<h3 align="center">Are you ready to deposit?</h3>
 
 ### Quick Links
 
@@ -23,7 +21,7 @@ Binance Central B4NK is a new DeFi protocol developed for users who want high yi
 ### Key Features
 
 **Collateralisation**\
-The B4NK is designed to combine BNB backing with B4NK backing for optimal capital efficiency.
+The B4NK is designed to combine BNB backing with B4NK backing for optimal capital efficiency. $xBNB is over-collateralised as a result of the treasury-held B4NK.
 
 **100% Fee Distribution**\
 All protocol fees are distributed to B4NK token holders who stake or lock their tokens.

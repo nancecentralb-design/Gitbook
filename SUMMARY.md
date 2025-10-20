@@ -9,11 +9,11 @@
 * [💎 Synthetic Assets](getting-started/synthetic-assets.md)
 * [🌑 xBNB Token](getting-started/xbnb-token.md)
 
-## Mechanics of Binance Central B4NK
+## Mechanisms of B4NK
 
-* [↪️ Minting and Redeeming](mechanics-of-binance-central-b4nk/minting-and-redeeming.md)
-* [📈 Collateral Ratio](mechanics-of-binance-central-b4nk/collateral-ratio.md)
-* [⚖️ Price Stability](mechanics-of-binance-central-b4nk/price-stability.md)
+* [↪️ Minting and Redeeming](mechanisms-of-b4nk/minting-and-redeeming.md)
+* [📈 Collateral Ratio](mechanisms-of-b4nk/collateral-ratio.md)
+* [⚖️ Price Stability](mechanisms-of-b4nk/price-stability.md)
 
 ## User Guide
 

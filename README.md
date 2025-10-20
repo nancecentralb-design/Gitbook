@@ -1,13 +1,12 @@
 ---
+description: Welcome to B4NK
 cover: .gitbook/assets/banner_Gitbook.png
 coverY: 0
 ---
 
 # 🏠 Introduction
 
-## Welcome to B4NK&#x20;
-
-### What is B4NK?
+## What is B4NK?
 
 Binance Central B4NK is a new DeFi protocol developed for users who want high yield on their BNB without giving up token exposure. B4NK enables loyal users to generate incredible returns on their BNB, whilst punishing users who are less considerate.&#x20;
 

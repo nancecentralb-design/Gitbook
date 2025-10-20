@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/banner_Gitbook_Links.png
+coverY: 0
+---
+
 # 📞 Links
 
 <p align="center"><a href="https://b4nk.fun/">https://b4nk.fun/</a></p>

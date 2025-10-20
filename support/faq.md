@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/banner_Gitbook_FAW.png
+coverY: 0
+---
+
 # ❓ FAQ
 
 Find answers to common questions about Binance Central Bank.

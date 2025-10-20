@@ -1,5 +1,7 @@
 ---
 icon: bolt-lightning
+cover: ../.gitbook/assets/banner_Gitbook_Bank_tokenstab.png
+coverY: 0
 ---
 
 # B4NK - Token Utility

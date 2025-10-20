@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/banner_Gitbook_zap.png
+coverY: 0
+---
+
 # ⚡ Zap Features
 
 ## Zap Features

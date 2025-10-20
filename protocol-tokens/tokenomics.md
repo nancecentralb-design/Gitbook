@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/banner_Gitbook_tokenonimcs.png
+coverY: 0
+---
+
 # 📊 Tokenomics
 
 ## Tokenomics

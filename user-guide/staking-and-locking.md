@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/banner_Gitbook_Staking.png
+coverY: 0
+---
+
 # 🔓 Staking and Locking
 
 ### Staking $B4NK

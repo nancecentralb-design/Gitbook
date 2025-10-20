@@ -1,4 +1,5 @@
 ---
+cover: ../.gitbook/assets/banner_Gitbook_Collateral.png
 coverY: 0
 ---
 

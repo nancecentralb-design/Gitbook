@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/banner_Gitbook_FlashLoan.png
+coverY: 0
+---
+
 # 🛡️ Flash Loan Protection
 
 ## Flash Loan Protection

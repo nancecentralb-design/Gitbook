@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/banner_Gitbook_xBNB.png
+coverY: 0
+---
+
 # 🌑 xBNB Token
 
 ## xBNB Token

@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/banner_Gitbook_Synth.png
+coverY: 0
+---
+
 # 💎 Synthetic Assets
 
 ## What are Synthetic Assets?

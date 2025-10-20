@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/banner_Gitbook_minting.png
+coverY: 0
+---
+
 # ↪️ Minting and Redeeming
 
 ## Minting & Redeeming

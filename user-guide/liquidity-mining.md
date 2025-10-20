@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/banner_Gitbook_Liquidity.png
+coverY: 0
+---
+
 # 🧑‍🌾 Liquidity Mining
 
 ## Liquidity Mining (Farms)

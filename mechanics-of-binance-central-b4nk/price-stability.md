@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/banner_Gitbook_PriceStab.png
+coverY: 0
+---
+
 # ⚖️ Price Stability
 
 ## Price Stability Mechanism

@@ -1,5 +1,7 @@
 ---
-description: Welcome to B4NK
+description: >-
+  Welcome to B4NK: The premier place to earn yield without losing any exposure
+  to the hardest money on earth: $BNB.
 cover: .gitbook/assets/banner_Gitbook.png
 coverY: 0
 ---

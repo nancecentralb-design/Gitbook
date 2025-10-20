@@ -1,14 +1,14 @@
 ---
 description: >-
-  Welcome to B4NK: The premier place to generate yield using the hardest
-  on-chain currency: $BNB
+  Level up your DeFi experience with B4NK, the synthetic protocol that turns
+  yield farming into strategic gameplay.
 cover: .gitbook/assets/banner_Gitbook.png
 coverY: 0
 ---
 
 # 🏠 Introduction
 
-## What is B4NK?
+### What is B4NK?
 
 Binance Central B4NK is a new DeFi protocol developed for users who want high yield on their BNB without giving up token exposure. B4NK enables loyal users to generate incredible returns on their BNB, whilst punishing users who are less considerate.&#x20;
 

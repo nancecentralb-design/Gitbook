@@ -2,16 +2,16 @@
 
 ## Flash Loan Protection
 
-Our protocol employs a robust 2-step mechanism to prevent flash loan attacks and ensure user safety.
+Our protocol employs a robust two-step mechanism to prevent flash loan attacks and ensure user safety.
 
 ### What are Flash Loans?
 
-Flash loans are uncollateralised loans that must be borrowed and repaid within a single blockchain transaction. While useful for legitimate purposes like arbitrage, they can also be exploited to attack DeFi protocols.
+Flash loans are un-collateralised loans that must be borrowed and repaid within a single blockchain transaction. While useful for legitimate purposes like arbitrage, they can also be exploited to attack DeFi protocols.
 
 #### Common Flash Loan Attack Vectors
 
 **Price Manipulation**\
-Attackers can use flash loans to manipulate token prices on DEXes, then exploit protocols that rely on those prices.
+Attackers can use flash loans to manipulate token prices on DEXs, then exploit protocols that rely on those prices.
 
 **Collateral Exploits**\
 Large flash loans can be used to mint excessive amounts of synthetic assets, then default, draining protocol reserves.
@@ -37,7 +37,7 @@ By requiring two separate transactions, we make it impossible for flash loan att
 
 Flash loans **must** be repaid in the same transaction they're borrowed. This is enforced at the smart contract level and cannot be bypassed.
 
-#### Our Defense
+#### Our Defence
 
 Since our minting and redemption processes require **two separate transactions**:
 
@@ -77,7 +77,7 @@ The protocol verifies that:
 
 * Step 2 is called by the same address that called Step 1
 * The transaction parameters match the original mint/redeem request
-* No unauthorized modifications occur between steps
+* No unauthorised modifications occur between steps
 
 #### Economic Disincentive
 

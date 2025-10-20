@@ -1,7 +1,7 @@
 ---
 description: >-
-  Welcome to B4NK: The premier place to earn yield without losing any exposure
-  to the hardest money on earth: $BNB.
+  Welcome to B4NK: The premier place to generate yield using the hardest
+  on-chain currency: $BNB
 cover: .gitbook/assets/banner_Gitbook.png
 coverY: 0
 ---
@@ -18,7 +18,7 @@ Binance Central B4NK is a new DeFi protocol developed for users who want high yi
 
 ### Quick Links
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Synthetic Assets</strong></td><td>Learn about synthetic tokens and how they work</td><td></td></tr><tr><td><strong>xBNB Token</strong></td><td>Discover our flagship synthetic token</td><td></td></tr><tr><td><strong>B4NK Utility</strong></td><td>Explore the protocol utility token</td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><strong>Synthetic Assets</strong></td><td>Learn about synthetic tokens and how they work</td><td></td><td><a href=".gitbook/assets/Gitbook_Icons_Synth1 (2).png">Gitbook_Icons_Synth1 (2).png</a></td></tr><tr><td><strong>xBNB Token</strong></td><td>Discover our flagship synthetic token</td><td></td><td><a href=".gitbook/assets/Gitbook_Icons_xBNB.png">Gitbook_Icons_xBNB.png</a></td></tr><tr><td><strong>B4NK Utility</strong></td><td>Explore the protocol utility token</td><td></td><td><a href=".gitbook/assets/Gitbook_Icons_utility.png">Gitbook_Icons_utility.png</a></td></tr></tbody></table>
 
 ### Key Features
 

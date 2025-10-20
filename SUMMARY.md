@@ -11,9 +11,9 @@
 
 ## Mechanisms of B4NK
 
-* [↪️ Minting and Redeeming](mechanisms-of-b4nk/minting-and-redeeming.md)
-* [📈 Collateral Ratio](mechanisms-of-b4nk/collateral-ratio.md)
-* [⚖️ Price Stability](mechanisms-of-b4nk/price-stability.md)
+* [↪️ Minting and Redeeming](mechanics-of-binance-central-b4nk/minting-and-redeeming.md)
+* [📈 Collateral Ratio](mechanics-of-binance-central-b4nk/collateral-ratio.md)
+* [⚖️ Price Stability](mechanics-of-binance-central-b4nk/price-stability.md)
 
 ## User Guide
 
@@ -32,5 +32,5 @@
 
 ## Support
 
-* [📞 Contact Us](support/contact-us.md)
+* [📞 Links](support/links.md)
 * [❓ FAQ](support/faq.md)

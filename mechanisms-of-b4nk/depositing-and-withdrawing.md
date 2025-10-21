@@ -3,13 +3,13 @@ cover: ../.gitbook/assets/banner_Gitbook_minting.png
 coverY: 0
 ---
 
-# ↪️ Minting and Redeeming
+# ↪️ Depositing and Withdrawing
 
-## Minting & Redeeming
+## Depositing & Withdrawing
 
 Learn how to mint new xBNB tokens and redeem them back to collateral.
 
-### Minting xBNB
+### Minting xBNB by Depositing BNB
 
 Create new xBNB tokens by depositing collateral based on the current Collateral Ratio.
 
@@ -18,7 +18,7 @@ Create new xBNB tokens by depositing collateral based on the current Collateral 
 To mint 1 xBNB:
 
 * **BNB Required**: CR × 1 BNB
-* **B4NK Required**: (1 - CR) × 1 BNB worth
+* Required B4NK is provided from B4NK treasury
 
 #### Example Calculations
 
@@ -27,36 +27,36 @@ To mint 1 xBNB:
 **To mint 1 xBNB:**
 
 * BNB needed: 0.90 BNB
-* B4NK needed: 0.10 BNB worth of B4NK
+* 0.10 BNB worth of B4NK provided from B4NK treasury
 
 **To mint 100 xBNB:**
 
 * BNB needed: 90 BNB
-* B4NK needed: 10 BNB worth of B4NK
+* 10 BNB worth of B4NK provided from B4NK treasury
 {% endtab %}
 
 {% tab title="CR = 75%" %}
 **To mint 1 xBNB:**
 
 * BNB needed: 0.75 BNB
-* B4NK needed: 0.25 BNB worth of B4NK
+* 0.25 BNB worth of B4NK provided from B4NK treasury
 
 **To mint 100 xBNB:**
 
 * BNB needed: 75 BNB
-* B4NK needed: 25 BNB worth of B4NK
+* 25 BNB worth of B4NK provided from B4NK treasury
 {% endtab %}
 
 {% tab title="CR = 95%" %}
 **To mint 1 xBNB:**
 
 * BNB needed: 0.95 BNB
-* B4NK needed: 0.05 BNB worth of B4NK
+* 0.05 BNB worth of B4NK provided from B4NK treasury
 
 **To mint 100 xBNB:**
 
 * BNB needed: 95 BNB
-* B4NK needed: 5 BNB worth of B4NK
+* 5 BNB worth of B4NK provided from B4NK treasury
 {% endtab %}
 {% endtabs %}
 
@@ -72,10 +72,10 @@ View the current Collateral Ratio on the minting page.
 {% step %}
 #### Prepare Collateral
 
-Ensure you have the required amount of BNB and B4NK in your wallet.
+Ensure you have the required amount of BNB in your wallet.
 
 {% hint style="info" %}
-**Pro Tip**: Use the Zap feature if you only have BNB - it will automatically purchase the required B4NK for you.
+**Pro Tip**: You only need BNB - B4NK will automatically provide the required B4NK for you.
 {% endhint %}
 {% endstep %}
 
@@ -94,7 +94,7 @@ Submit second transaction to collect your newly minted xBNB tokens.
 
 #### Minting Fees
 
-* **Fee**: 0.50% of minted value
+* **Fee**: 1% of minted value
 * **Collected in**: BNB
 * **Distributed to**: Staked and locked B4NK holders
 
@@ -105,9 +105,9 @@ When you mint xBNB:
 * **BNB portion**: Held in protocol treasury as collateral
 * **B4NK portion**: Burned, removing tokens from circulation
 
-### Redeeming xBNB
+### Withdrawing BNB from xBNB
 
-Convert your xBNB back to collateral at any time.
+Convert your xBNB back to BNB at any time.
 
 #### Redeeming Formula
 
@@ -180,7 +180,7 @@ Submit second transaction to collect your BNB and B4NK collateral.
 
 #### Redemption Fees
 
-* **Fee**: 0.50% of redeemed value
+* **Fee**: 2% of redeemed value
 * **Collected in**: BNB
 * **Distributed to**: Staked and locked B4NK holders
 
@@ -214,7 +214,7 @@ Both minting and redeeming require two separate transactions. This prevents flas
 
 <summary>Can I mint xBNB with only BNB?</summary>
 
-Yes! Use the Zap feature on the minting page. The protocol will automatically purchase the required B4NK amount from the market using part of your BNB.
+Yes! Use the Zap feature on the minting page. The protocol will automatically provide the required B4NK amount from the treasury.
 
 </details>
 
